@@ -1,0 +1,27 @@
+--cpu Cortex-M0
+".\objects\ble_bas.o"
+".\objects\ble_dis.o"
+".\objects\ble_hrs.o"
+".\objects\battery.o"
+".\objects\led.o"
+".\objects\main.o"
+".\objects\app_button.o"
+".\objects\app_gpiote.o"
+".\objects\app_timer.o"
+".\objects\app_trace.o"
+".\objects\ble_advdata.o"
+".\objects\ble_conn_params.o"
+".\objects\ble_debug_assert_handler.o"
+".\objects\ble_error_log.o"
+".\objects\ble_srv_common.o"
+".\objects\crc16.o"
+".\objects\device_manager_peripheral.o"
+".\objects\pstorage.o"
+".\objects\simple_uart.o"
+".\objects\softdevice_handler.o"
+".\objects\arm_startup_nrf51.o"
+".\objects\system_nrf51.o"
+--strict --scatter ".\Objects\ringb.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\ringb.map" -o .\Objects\ringb.axf

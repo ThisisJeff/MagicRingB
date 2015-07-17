@@ -1,0 +1,500 @@
+Dependencies for Project 'ringb', Target 'nrf51822': (DO NOT MODIFY !)
+F (.\src\services\ble_bas.c)(0x54F17870)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\ble_bas.o --omf_browse .\objects\ble_bas.crf --depend .\objects\ble_bas.d)
+I (.\Include\ble\ble_services\ble_bas.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\Include\s110\ble.h)(0x53A0F546)
+I (.\Include\s110\ble_ranges.h)(0x53A0F546)
+I (.\Include\s110\ble_types.h)(0x53A0F546)
+I (.\Include\s110\ble_gap.h)(0x53A0F546)
+I (.\Include\s110\nrf_svc.h)(0x53A0F546)
+I (.\Include\s110\ble_l2cap.h)(0x53A0F546)
+I (.\Include\s110\ble_err.h)(0x53A0F546)
+I (.\Include\s110\nrf_error.h)(0x529BFE04)
+I (.\Include\s110\ble_gatt.h)(0x53A0F546)
+I (.\Include\s110\ble_gattc.h)(0x53A0F546)
+I (.\Include\s110\ble_gatts.h)(0x53A0F546)
+I (.\Include\ble\ble_services\ble_srv_common.h)(0x540036CC)
+I (.\Include\app_common\app_util.h)(0x540036CC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (.\Include\nordic_common.h)(0x540036CC)
+F (.\src\services\ble_dis.c)(0x540036CC)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\ble_dis.o --omf_browse .\objects\ble_dis.crf --depend .\objects\ble_dis.d)
+I (.\Include\ble\ble_services\ble_dis.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (.\Include\ble\ble_services\ble_srv_common.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\Include\s110\ble_types.h)(0x53A0F546)
+I (.\Include\app_common\app_util.h)(0x540036CC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)
+I (.\Include\s110\ble_gap.h)(0x53A0F546)
+I (.\Include\s110\ble_ranges.h)(0x53A0F546)
+I (.\Include\s110\nrf_svc.h)(0x53A0F546)
+I (.\Include\s110\ble_gatt.h)(0x53A0F546)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (.\Include\app_common\app_error.h)(0x540036CC)
+I (.\Include\s110\nrf_error.h)(0x529BFE04)
+I (.\Include\s110\ble_gatts.h)(0x53A0F546)
+I (.\Include\s110\ble_l2cap.h)(0x53A0F546)
+I (.\Include\s110\ble_err.h)(0x53A0F546)
+I (.\Include\nordic_common.h)(0x540036CC)
+F (.\src\services\ble_hrs.c)(0x540036CC)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\ble_hrs.o --omf_browse .\objects\ble_hrs.crf --depend .\objects\ble_hrs.d)
+I (.\Include\ble\ble_services\ble_hrs.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\Include\s110\ble.h)(0x53A0F546)
+I (.\Include\s110\ble_ranges.h)(0x53A0F546)
+I (.\Include\s110\ble_types.h)(0x53A0F546)
+I (.\Include\s110\ble_gap.h)(0x53A0F546)
+I (.\Include\s110\nrf_svc.h)(0x53A0F546)
+I (.\Include\s110\ble_l2cap.h)(0x53A0F546)
+I (.\Include\s110\ble_err.h)(0x53A0F546)
+I (.\Include\s110\nrf_error.h)(0x529BFE04)
+I (.\Include\s110\ble_gatt.h)(0x53A0F546)
+I (.\Include\s110\ble_gattc.h)(0x53A0F546)
+I (.\Include\s110\ble_gatts.h)(0x53A0F546)
+I (.\Include\ble\ble_services\ble_srv_common.h)(0x540036CC)
+I (.\Include\app_common\app_util.h)(0x540036CC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (.\Include\nordic_common.h)(0x540036CC)
+F (.\src\app\battery.c)(0x540036CC)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\battery.o --omf_browse .\objects\battery.crf --depend .\objects\battery.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (.\Include\nordic_common.h)(0x540036CC)
+I (.\Include\nrf.h)(0x540036EC)
+I (.\Include\nrf51.h)(0x540036EC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h)(0x53688AAC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\Include\system_nrf51.h)(0x540036EC)
+I (.\Include\nrf51_bitfields.h)(0x540036EC)
+I (.\Include\nrf51_deprecated.h)(0x540036EC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)
+I (.\Include\app_common\app_error.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\Include\s110\nrf_error.h)(0x529BFE04)
+I (.\Include\nrf_gpio.h)(0x540036CC)
+I (.\Include\sd_common\softdevice_handler.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (.\Include\s110\nrf_sdm.h)(0x53A0F546)
+I (.\Include\s110\nrf_svc.h)(0x53A0F546)
+I (.\Include\s110\nrf_soc.h)(0x53A0F546)
+I (.\Include\s110\nrf_error_soc.h)(0x5363F06C)
+I (.\Include\s110\nrf_error_sdm.h)(0x529BFE04)
+I (.\Include\app_common\app_scheduler.h)(0x540036CC)
+I (.\Include\app_common\app_util.h)(0x540036CC)
+I (.\Include\sd_common\ble_stack_handler_types.h)(0x540036CC)
+I (.\Include\s110\ble.h)(0x53A0F546)
+I (.\Include\s110\ble_ranges.h)(0x53A0F546)
+I (.\Include\s110\ble_types.h)(0x53A0F546)
+I (.\Include\s110\ble_gap.h)(0x53A0F546)
+I (.\Include\s110\ble_l2cap.h)(0x53A0F546)
+I (.\Include\s110\ble_err.h)(0x53A0F546)
+I (.\Include\s110\ble_gatt.h)(0x53A0F546)
+I (.\Include\s110\ble_gattc.h)(0x53A0F546)
+I (.\Include\s110\ble_gatts.h)(0x53A0F546)
+I (.\Include\sd_common\ant_stack_handler_types.h)(0x540036CC)
+I (.\Include\ble\ble_services\ble_bas.h)(0x540036CC)
+I (.\Include\ble\ble_services\ble_srv_common.h)(0x540036CC)
+I (.\Include\app\main.h)(0x540036CC)
+I (.\Include\app\battery.h)(0x540036CC)
+F (.\src\app\led.c)(0x547D8390)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\led.o --omf_browse .\objects\led.crf --depend .\objects\led.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (.\Include\nordic_common.h)(0x540036CC)
+I (.\Include\nrf.h)(0x540036EC)
+I (.\Include\nrf51.h)(0x540036EC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h)(0x53688AAC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\Include\system_nrf51.h)(0x540036EC)
+I (.\Include\nrf51_bitfields.h)(0x540036EC)
+I (.\Include\nrf51_deprecated.h)(0x540036EC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)
+I (.\Include\app_common\app_error.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\Include\s110\nrf_error.h)(0x529BFE04)
+I (.\Include\boards.h)(0x540036CC)
+I (.\Include\boards/pca10001.h)(0x540036CC)
+I (.\Include\nrf_gpio.h)(0x540036CC)
+I (.\Include\s110\nrf_soc.h)(0x53A0F546)
+I (.\Include\s110\nrf_svc.h)(0x53A0F546)
+I (.\Include\s110\nrf_error_soc.h)(0x5363F06C)
+I (.\Include\nrf_gpiote.h)(0x540036CC)
+I (.\Include\app\led.h)(0x547D8206)
+I (.\Include\app_common\app_util.h)(0x540036CC)
+F (.\src\app\main.c)(0x540036CC)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (.\Include\nordic_common.h)(0x540036CC)
+I (.\Include\nrf.h)(0x540036EC)
+I (.\Include\nrf51.h)(0x540036EC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h)(0x53688AAC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\Include\system_nrf51.h)(0x540036EC)
+I (.\Include\nrf51_bitfields.h)(0x540036EC)
+I (.\Include\nrf51_deprecated.h)(0x540036EC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)
+I (.\Include\app_common\app_error.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\Include\s110\nrf_error.h)(0x529BFE04)
+I (.\Include\s110\ble.h)(0x53A0F546)
+I (.\Include\s110\ble_ranges.h)(0x53A0F546)
+I (.\Include\s110\ble_types.h)(0x53A0F546)
+I (.\Include\s110\ble_gap.h)(0x53A0F546)
+I (.\Include\s110\nrf_svc.h)(0x53A0F546)
+I (.\Include\s110\ble_l2cap.h)(0x53A0F546)
+I (.\Include\s110\ble_err.h)(0x53A0F546)
+I (.\Include\s110\ble_gatt.h)(0x53A0F546)
+I (.\Include\s110\ble_gattc.h)(0x53A0F546)
+I (.\Include\s110\ble_gatts.h)(0x53A0F546)
+I (.\Include\ble\ble_services\ble_srv_common.h)(0x540036CC)
+I (.\Include\app_common\app_util.h)(0x540036CC)
+I (.\Include\ble\ble_advdata.h)(0x540036CC)
+I (.\Include\ble\ble_services\ble_bas.h)(0x540036CC)
+I (.\Include\ble\ble_services\ble_hrs.h)(0x540036CC)
+I (.\Include\ble\ble_services\ble_dis.h)(0x540036CC)
+I (.\Include\ble\ble_conn_params.h)(0x540036CC)
+I (.\Include\boards.h)(0x540036CC)
+I (.\Include\boards/pca10001.h)(0x540036CC)
+I (.\Include\nrf_gpio.h)(0x540036CC)
+I (.\Include\sd_common\softdevice_handler.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (.\Include\s110\nrf_sdm.h)(0x53A0F546)
+I (.\Include\s110\nrf_soc.h)(0x53A0F546)
+I (.\Include\s110\nrf_error_soc.h)(0x5363F06C)
+I (.\Include\s110\nrf_error_sdm.h)(0x529BFE04)
+I (.\Include\app_common\app_scheduler.h)(0x540036CC)
+I (.\Include\sd_common\ble_stack_handler_types.h)(0x540036CC)
+I (.\Include\sd_common\ant_stack_handler_types.h)(0x540036CC)
+I (.\Include\app_common\app_timer.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (.\Include\app\led.h)(0x547D8206)
+I (.\Include\app\battery.h)(0x540036CC)
+I (.\Include\ble\device_manager\device_manager.h)(0x540036CC)
+I (.\Include\sdk\sdk_common.h)(0x540036CC)
+I (.\Include\sdk\sdk_os.h)(0x540036CC)
+I (.\Include\sdk\sdk_errors.h)(0x540036CC)
+I (.\Include\app\device_manager_cnfg.h)(0x540036CC)
+I (.\Include\app_common\app_gpiote.h)(0x540036CC)
+I (.\Include\app_common\app_button.h)(0x540036CC)
+I (.\Include\ble\ble_debug_assert_handler.h)(0x540036CC)
+I (.\Include\app_common\pstorage.h)(0x540036CC)
+I (.\Include\app\pstorage_platform.h)(0x540036CC)
+I (.\Include\app_common\app_trace.h)(0x540036CC)
+F (.\src\libraries\app_button.c)(0x540036CC)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\app_button.o --omf_browse .\objects\app_button.crf --depend .\objects\app_button.d)
+I (.\Include\app_common\app_button.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\Include\nrf.h)(0x540036EC)
+I (.\Include\nrf51.h)(0x540036EC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h)(0x53688AAC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\Include\system_nrf51.h)(0x540036EC)
+I (.\Include\nrf51_bitfields.h)(0x540036EC)
+I (.\Include\nrf51_deprecated.h)(0x540036EC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)
+I (.\Include\app_common\app_error.h)(0x540036CC)
+I (.\Include\s110\nrf_error.h)(0x529BFE04)
+I (.\Include\app_common\app_scheduler.h)(0x540036CC)
+I (.\Include\nrf_gpio.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (.\Include\nordic_common.h)(0x540036CC)
+I (.\Include\app_common\app_util.h)(0x540036CC)
+I (.\Include\app_common\app_gpiote.h)(0x540036CC)
+I (.\Include\app_common\app_timer.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+F (.\src\libraries\app_gpiote.c)(0x540036CC)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\app_gpiote.o --omf_browse .\objects\app_gpiote.crf --depend .\objects\app_gpiote.d)
+I (.\Include\app_common\app_gpiote.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\Include\nrf.h)(0x540036EC)
+I (.\Include\nrf51.h)(0x540036EC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h)(0x53688AAC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\Include\system_nrf51.h)(0x540036EC)
+I (.\Include\nrf51_bitfields.h)(0x540036EC)
+I (.\Include\nrf51_deprecated.h)(0x540036EC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)
+I (.\Include\app_common\app_error.h)(0x540036CC)
+I (.\Include\s110\nrf_error.h)(0x529BFE04)
+I (.\Include\app_common\app_util.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (.\Include\sd_common\app_util_platform.h)(0x540036CC)
+I (.\Include\nrf_gpio.h)(0x540036CC)
+F (.\src\libraries\app_timer.c)(0x540036CC)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\app_timer.o --omf_browse .\objects\app_timer.crf --depend .\objects\app_timer.d)
+I (.\Include\app_common\app_timer.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (.\Include\app_common\app_error.h)(0x540036CC)
+I (.\Include\s110\nrf_error.h)(0x529BFE04)
+I (.\Include\app_common\app_util.h)(0x540036CC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)
+I (.\Include\app_common\app_scheduler.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (.\Include\nrf51.h)(0x540036EC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h)(0x53688AAC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\Include\system_nrf51.h)(0x540036EC)
+I (.\Include\nrf51_bitfields.h)(0x540036EC)
+I (.\Include\s110\nrf_soc.h)(0x53A0F546)
+I (.\Include\s110\nrf_svc.h)(0x53A0F546)
+I (.\Include\s110\nrf_error_soc.h)(0x5363F06C)
+I (.\Include\nrf_delay.h)(0x540036CC)
+I (.\Include\nrf.h)(0x540036EC)
+I (.\Include\nrf51_deprecated.h)(0x540036EC)
+I (.\Include\sd_common\app_util_platform.h)(0x540036CC)
+F (.\src\libraries\app_trace.c)(0x540036CC)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\app_trace.o --omf_browse .\objects\app_trace.crf --depend .\objects\app_trace.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x53463A44)
+I (.\Include\app_common\app_uart.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\Include\sd_common\app_util_platform.h)(0x540036CC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)
+I (.\Include\nrf51.h)(0x540036EC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h)(0x53688AAC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\Include\system_nrf51.h)(0x540036EC)
+I (.\Include\app_common\app_error.h)(0x540036CC)
+I (.\Include\s110\nrf_error.h)(0x529BFE04)
+I (.\Include\simple_uart.h)(0x540036CC)
+I (.\Include\app_common\app_gpiote.h)(0x540036CC)
+I (.\Include\nrf.h)(0x540036EC)
+I (.\Include\nrf51_bitfields.h)(0x540036EC)
+I (.\Include\nrf51_deprecated.h)(0x540036EC)
+I (.\Include\app_common\app_util.h)(0x540036CC)
+I (.\Include\nordic_common.h)(0x540036CC)
+I (.\Include\boards.h)(0x540036CC)
+I (.\Include\boards/pca10001.h)(0x540036CC)
+I (.\Include\nrf_gpio.h)(0x540036CC)
+I (.\Include\app_common\app_trace.h)(0x540036CC)
+F (.\src\libraries\ble_advdata.c)(0x540036CC)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\ble_advdata.o --omf_browse .\objects\ble_advdata.crf --depend .\objects\ble_advdata.d)
+I (.\Include\ble\ble_advdata.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (.\Include\s110\ble.h)(0x53A0F546)
+I (.\Include\s110\ble_ranges.h)(0x53A0F546)
+I (.\Include\s110\ble_types.h)(0x53A0F546)
+I (.\Include\s110\ble_gap.h)(0x53A0F546)
+I (.\Include\s110\nrf_svc.h)(0x53A0F546)
+I (.\Include\s110\ble_l2cap.h)(0x53A0F546)
+I (.\Include\s110\ble_err.h)(0x53A0F546)
+I (.\Include\s110\nrf_error.h)(0x529BFE04)
+I (.\Include\s110\ble_gatt.h)(0x53A0F546)
+I (.\Include\s110\ble_gattc.h)(0x53A0F546)
+I (.\Include\s110\ble_gatts.h)(0x53A0F546)
+I (.\Include\app_common\app_util.h)(0x540036CC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)
+I (.\Include\nordic_common.h)(0x540036CC)
+I (.\Include\ble\ble_services\ble_srv_common.h)(0x540036CC)
+F (.\src\libraries\ble_conn_params.c)(0x547D8556)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\ble_conn_params.o --omf_browse .\objects\ble_conn_params.crf --depend .\objects\ble_conn_params.d)
+I (.\Include\ble\ble_conn_params.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (.\Include\s110\ble.h)(0x53A0F546)
+I (.\Include\s110\ble_ranges.h)(0x53A0F546)
+I (.\Include\s110\ble_types.h)(0x53A0F546)
+I (.\Include\s110\ble_gap.h)(0x53A0F546)
+I (.\Include\s110\nrf_svc.h)(0x53A0F546)
+I (.\Include\s110\ble_l2cap.h)(0x53A0F546)
+I (.\Include\s110\ble_err.h)(0x53A0F546)
+I (.\Include\s110\nrf_error.h)(0x529BFE04)
+I (.\Include\s110\ble_gatt.h)(0x53A0F546)
+I (.\Include\s110\ble_gattc.h)(0x53A0F546)
+I (.\Include\s110\ble_gatts.h)(0x53A0F546)
+I (.\Include\ble\ble_services\ble_srv_common.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\Include\app_common\app_util.h)(0x540036CC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (.\Include\nordic_common.h)(0x540036CC)
+I (.\Include\s110\ble_hci.h)(0x53A0F546)
+I (.\Include\app_common\app_timer.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (.\Include\app_common\app_error.h)(0x540036CC)
+I (.\Include\app_common\app_scheduler.h)(0x540036CC)
+F (.\src\libraries\ble_debug_assert_handler.c)(0x540036CC)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\ble_debug_assert_handler.o --omf_browse .\objects\ble_debug_assert_handler.crf --depend .\objects\ble_debug_assert_handler.d)
+I (.\Include\ble\ble_debug_assert_handler.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (.\Include\nrf51.h)(0x540036EC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h)(0x53688AAC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\Include\system_nrf51.h)(0x540036EC)
+I (.\Include\ble\ble_error_log.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\Include\ble\ble_flash.h)(0x540036CC)
+I (.\Include\nordic_common.h)(0x540036CC)
+F (.\src\libraries\ble_error_log.c)(0x540036CC)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\ble_error_log.o --omf_browse .\objects\ble_error_log.crf --depend .\objects\ble_error_log.d)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\Include\nrf51.h)(0x540036EC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h)(0x53688AAC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\Include\system_nrf51.h)(0x540036EC)
+I (.\Include\ble\ble_error_log.h)(0x540036CC)
+I (.\Include\ble\ble_flash.h)(0x540036CC)
+I (.\Include\app_common\app_util.h)(0x540036CC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)
+I (.\Include\app_common\app_error.h)(0x540036CC)
+I (.\Include\s110\nrf_error.h)(0x529BFE04)
+I (.\Include\nrf_gpio.h)(0x540036CC)
+I (.\Include\nrf51_bitfields.h)(0x540036EC)
+I (.\Include\app_common\pstorage.h)(0x540036CC)
+I (.\Include\app\pstorage_platform.h)(0x540036CC)
+F (.\src\libraries\ble_srv_common.c)(0x540036CC)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\ble_srv_common.o --omf_browse .\objects\ble_srv_common.crf --depend .\objects\ble_srv_common.d)
+I (.\Include\ble\ble_services\ble_srv_common.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\Include\s110\ble_types.h)(0x53A0F546)
+I (.\Include\app_common\app_util.h)(0x540036CC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)
+I (.\Include\s110\ble_gap.h)(0x53A0F546)
+I (.\Include\s110\ble_ranges.h)(0x53A0F546)
+I (.\Include\s110\nrf_svc.h)(0x53A0F546)
+I (.\Include\s110\ble_gatt.h)(0x53A0F546)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (.\Include\nordic_common.h)(0x540036CC)
+I (.\Include\app_common\app_error.h)(0x540036CC)
+I (.\Include\s110\nrf_error.h)(0x529BFE04)
+F (.\src\libraries\crc16.c)(0x540036CC)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\crc16.o --omf_browse .\objects\crc16.crf --depend .\objects\crc16.d)
+I (.\Include\app_common\crc16.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+F (.\src\libraries\device_manager_peripheral.c)(0x547D8298)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\device_manager_peripheral.o --omf_browse .\objects\device_manager_peripheral.crf --depend .\objects\device_manager_peripheral.d)
+I (.\Include\ble\device_manager\device_manager.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\Include\sdk\sdk_common.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (.\Include\nordic_common.h)(0x540036CC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)
+I (.\Include\sdk\sdk_os.h)(0x540036CC)
+I (.\Include\sdk\sdk_errors.h)(0x540036CC)
+I (.\Include\s110\nrf_error.h)(0x529BFE04)
+I (.\Include\app_common\app_util.h)(0x540036CC)
+I (.\Include\s110\ble.h)(0x53A0F546)
+I (.\Include\s110\ble_ranges.h)(0x53A0F546)
+I (.\Include\s110\ble_types.h)(0x53A0F546)
+I (.\Include\s110\ble_gap.h)(0x53A0F546)
+I (.\Include\s110\nrf_svc.h)(0x53A0F546)
+I (.\Include\s110\ble_l2cap.h)(0x53A0F546)
+I (.\Include\s110\ble_err.h)(0x53A0F546)
+I (.\Include\s110\ble_gatt.h)(0x53A0F546)
+I (.\Include\s110\ble_gattc.h)(0x53A0F546)
+I (.\Include\s110\ble_gatts.h)(0x53A0F546)
+I (.\Include\app\device_manager_cnfg.h)(0x540036CC)
+I (.\Include\app_common\app_trace.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (.\Include\ble\ble_advdata.h)(0x540036CC)
+I (.\Include\app_common\pstorage.h)(0x540036CC)
+I (.\Include\app\pstorage_platform.h)(0x540036CC)
+I (.\Include\s110\ble_hci.h)(0x53A0F546)
+I (.\Include\app_common\app_error.h)(0x540036CC)
+I (.\Include\nrf_gpio.h)(0x540036CC)
+I (.\Include\nrf51.h)(0x540036EC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h)(0x53688AAC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\Include\system_nrf51.h)(0x540036EC)
+I (.\Include\nrf51_bitfields.h)(0x540036EC)
+I (.\Include\app\led.h)(0x547D8206)
+F (.\src\libraries\pstorage.c)(0x540036CC)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\pstorage.o --omf_browse .\objects\pstorage.crf --depend .\objects\pstorage.d)
+I (.\Include\app_common\pstorage.h)(0x540036CC)
+I (.\Include\app\pstorage_platform.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (.\Include\nordic_common.h)(0x540036CC)
+I (.\Include\s110\nrf_error.h)(0x529BFE04)
+I (.\Include\nrf_assert.h)(0x540036CC)
+I (.\Include\nrf.h)(0x540036EC)
+I (.\Include\nrf51.h)(0x540036EC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h)(0x53688AAC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\Include\system_nrf51.h)(0x540036EC)
+I (.\Include\nrf51_bitfields.h)(0x540036EC)
+I (.\Include\nrf51_deprecated.h)(0x540036EC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)
+I (.\Include\s110\nrf_soc.h)(0x53A0F546)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\Include\s110\nrf_svc.h)(0x53A0F546)
+I (.\Include\s110\nrf_error_soc.h)(0x5363F06C)
+I (.\Include\app_common\app_util.h)(0x540036CC)
+F (.\src\libraries\simple_uart.c)(0x540036CE)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\simple_uart.o --omf_browse .\objects\simple_uart.crf --depend .\objects\simple_uart.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (.\Include\nrf.h)(0x540036EC)
+I (.\Include\nrf51.h)(0x540036EC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h)(0x53688AAC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\Include\system_nrf51.h)(0x540036EC)
+I (.\Include\nrf51_bitfields.h)(0x540036EC)
+I (.\Include\nrf51_deprecated.h)(0x540036EC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)
+I (.\Include\simple_uart.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\Include\nrf_delay.h)(0x540036CC)
+I (.\Include\nrf_gpio.h)(0x540036CC)
+F (.\src\libraries\softdevice_handler.c)(0x540036CC)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\softdevice_handler.o --omf_browse .\objects\softdevice_handler.crf --depend .\objects\softdevice_handler.d)
+I (.\Include\sd_common\softdevice_handler.h)(0x540036CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (.\Include\nordic_common.h)(0x540036CC)
+I (.\Include\s110\nrf_sdm.h)(0x53A0F546)
+I (.\Include\s110\nrf_svc.h)(0x53A0F546)
+I (.\Include\nrf51.h)(0x540036EC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h)(0x53688AAC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\Include\system_nrf51.h)(0x540036EC)
+I (.\Include\s110\nrf_soc.h)(0x53A0F546)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\Include\nrf51_bitfields.h)(0x540036EC)
+I (.\Include\s110\nrf_error_soc.h)(0x5363F06C)
+I (.\Include\s110\nrf_error.h)(0x529BFE04)
+I (.\Include\s110\nrf_error_sdm.h)(0x529BFE04)
+I (.\Include\app_common\app_error.h)(0x540036CC)
+I (.\Include\app_common\app_scheduler.h)(0x540036CC)
+I (.\Include\app_common\app_util.h)(0x540036CC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)
+I (.\Include\sd_common\ble_stack_handler_types.h)(0x540036CC)
+I (.\Include\s110\ble.h)(0x53A0F546)
+I (.\Include\s110\ble_ranges.h)(0x53A0F546)
+I (.\Include\s110\ble_types.h)(0x53A0F546)
+I (.\Include\s110\ble_gap.h)(0x53A0F546)
+I (.\Include\s110\ble_l2cap.h)(0x53A0F546)
+I (.\Include\s110\ble_err.h)(0x53A0F546)
+I (.\Include\s110\ble_gatt.h)(0x53A0F546)
+I (.\Include\s110\ble_gattc.h)(0x53A0F546)
+I (.\Include\s110\ble_gatts.h)(0x53A0F546)
+I (.\Include\sd_common\ant_stack_handler_types.h)(0x540036CC)
+I (.\Include\nrf_assert.h)(0x540036CC)
+F (RTE\Device\nRF51822_xxAA\arm_startup_nrf51.s)(0x53FC078E)(--cpu Cortex-M0 -g --apcs=interwork -I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include--list .\listings\arm_startup_nrf51.lst --xref -o .\objects\arm_startup_nrf51.o --depend .\objects\arm_startup_nrf51.d)
+F (RTE\Device\nRF51822_xxAA\system_nrf51.c)(0x53FC078E)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I.\Include -I.\Include\app_common -I.\Include\ble -I.\Include\ble\ble_services -I.\Include\ble\device_manager -I.\Include\s110 -I.\Include\sd_common -I.\Include\sdk -I.\Include\app-I D:\Develop\RING\code\ring_code\ringb_s110\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\1.1.1\Device\Include-D_RTE_ -DNRF51 -DNRF51 -DDEBUG_NRF_USER -DBLE_STACK_SUPPORT_REQD -DBOARD_PCA10001-o .\objects\system_nrf51.o --omf_browse .\objects\system_nrf51.crf --depend .\objects\system_nrf51.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\Include\nrf.h)(0x540036EC)
+I (.\Include\nrf51.h)(0x540036EC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h)(0x53688AAC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\Include\system_nrf51.h)(0x540036EC)
+I (.\Include\nrf51_bitfields.h)(0x540036EC)
+I (.\Include\nrf51_deprecated.h)(0x540036EC)
+I (.\Include\compiler_abstraction.h)(0x540036EC)

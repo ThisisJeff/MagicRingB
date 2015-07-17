@@ -1,0 +1,15 @@
+.\objects\ble_srv_common.o: src\libraries\ble_srv_common.c
+.\objects\ble_srv_common.o: .\Include\ble\ble_services\ble_srv_common.h
+.\objects\ble_srv_common.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\objects\ble_srv_common.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\objects\ble_srv_common.o: .\Include\s110\ble_types.h
+.\objects\ble_srv_common.o: .\Include\app_common\app_util.h
+.\objects\ble_srv_common.o: .\Include\compiler_abstraction.h
+.\objects\ble_srv_common.o: .\Include\s110\ble_gap.h
+.\objects\ble_srv_common.o: .\Include\s110\ble_ranges.h
+.\objects\ble_srv_common.o: .\Include\s110\nrf_svc.h
+.\objects\ble_srv_common.o: .\Include\s110\ble_gatt.h
+.\objects\ble_srv_common.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\ble_srv_common.o: .\Include\nordic_common.h
+.\objects\ble_srv_common.o: .\Include\app_common\app_error.h
+.\objects\ble_srv_common.o: .\Include\s110\nrf_error.h
